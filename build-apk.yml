@@ -1,4 +1,4 @@
-name: Build Local Dream APK (fork)
+name: .github/workflows/build-apk.yml
 
 # 在 GitHub 的 x86_64 runner 上编译 Local Dream（含 spill-fill 修复），产出可直接安装的 APK。
 #
